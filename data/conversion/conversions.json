@@ -1,0 +1,2099 @@
+[
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-03",
+    "conversion": [
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-04",
+    "conversion": [
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-05",
+    "conversion": [
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-08",
+    "conversion": [
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-09",
+    "conversion": [
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      },
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-10",
+    "conversion": [
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-14",
+    "conversion": [
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-15",
+    "conversion": [
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      },
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-16",
+    "conversion": [
+      {
+        "customer_id": "CU516",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-18",
+    "conversion": [
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-21",
+    "conversion": [
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-06-26",
+    "conversion": [
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-02",
+    "conversion": [
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-05",
+    "conversion": [
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-11",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-16",
+    "conversion": [
+      {
+        "customer_id": "CU516",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-19",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-20",
+    "conversion": [
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-25",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-26",
+    "conversion": [
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-28",
+    "conversion": [
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-07-30",
+    "conversion": [
+      {
+        "customer_id": "CU516",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      },
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-08-01",
+    "conversion": [
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-08-02",
+    "conversion": [
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-08-05",
+    "conversion": [
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-08-06",
+    "conversion": [
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP001",
+    "date": "2024-08-08",
+    "conversion": [
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-17",
+    "conversion": [
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-18",
+    "conversion": [
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-19",
+    "conversion": [
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-20",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-23",
+    "conversion": [
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-25",
+    "conversion": [
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-26",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-27",
+    "conversion": [
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-29",
+    "conversion": [
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-06-30",
+    "conversion": [
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-01",
+    "conversion": [
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-06",
+    "conversion": [
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-07",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-10",
+    "conversion": [
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU516",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-11",
+    "conversion": [
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU516",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-15",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-18",
+    "conversion": [
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-19",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-21",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      },
+      {
+        "customer_id": "CU516",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-22",
+    "conversion": [
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-23",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-27",
+    "conversion": [
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-29",
+    "conversion": [
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-07-31",
+    "conversion": [
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-08-02",
+    "conversion": [
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP002",
+    "date": "2024-08-04",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-05",
+    "conversion": [
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-08",
+    "conversion": [
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-10",
+    "conversion": [
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-11",
+    "conversion": [
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-14",
+    "conversion": [
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-17",
+    "conversion": [
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-18",
+    "conversion": [
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-20",
+    "conversion": [
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-21",
+    "conversion": [
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-22",
+    "conversion": [
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-23",
+    "conversion": [
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-26",
+    "conversion": [
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-28",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-07-30",
+    "conversion": [
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-08-04",
+    "conversion": [
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-08-06",
+    "conversion": [
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-08-08",
+    "conversion": [
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP003",
+    "date": "2024-08-09",
+    "conversion": [
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-10",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-13",
+    "conversion": [
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-15",
+    "conversion": [
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-19",
+    "conversion": [
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Buy",
+        "revenue_usd": 129.0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-22",
+    "conversion": [
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-24",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-27",
+    "conversion": [
+      {
+        "customer_id": "CU518",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-06-29",
+    "conversion": [
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-01",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU514",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-04",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-07",
+    "conversion": [
+      {
+        "customer_id": "CU507",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-09",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-10",
+    "conversion": [
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-14",
+    "conversion": [
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-15",
+    "conversion": [
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-17",
+    "conversion": [
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Buy",
+        "revenue_usd": 39.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-18",
+    "conversion": [
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      },
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU509",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-24",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-25",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      },
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-26",
+    "conversion": [
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Buy",
+        "revenue_usd": 29.99
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-28",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-07-29",
+    "conversion": [
+      {
+        "customer_id": "CU506",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-08-01",
+    "conversion": [
+      {
+        "customer_id": "CU519",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-08-06",
+    "conversion": [
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU502",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-08-07",
+    "conversion": [
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP004",
+    "date": "2024-08-09",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-07-20",
+    "conversion": [
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-07-22",
+    "conversion": [
+      {
+        "customer_id": "CU524",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-07-24",
+    "conversion": [
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU510",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      },
+      {
+        "customer_id": "CU513",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU511",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-07-25",
+    "conversion": [
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-07-26",
+    "conversion": [
+      {
+        "customer_id": "CU512",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU501",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU505",
+        "conversion_type": "Buy",
+        "revenue_usd": 79.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-07-27",
+    "conversion": [
+      {
+        "customer_id": "CU522",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU503",
+        "conversion_type": "Buy",
+        "revenue_usd": 149.0
+      },
+      {
+        "customer_id": "CU517",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-08-02",
+    "conversion": [
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Buy",
+        "revenue_usd": 59.99
+      },
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Buy",
+        "revenue_usd": 99.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-08-03",
+    "conversion": [
+      {
+        "customer_id": "CU525",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU508",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-08-04",
+    "conversion": [
+      {
+        "customer_id": "CU515",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      }
+    ]
+  },
+  {
+    "campaign_id": "CMP005",
+    "date": "2024-08-08",
+    "conversion": [
+      {
+        "customer_id": "CU504",
+        "conversion_type": "Add to Cart",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU520",
+        "conversion_type": "Wishlist",
+        "revenue_usd": 0
+      },
+      {
+        "customer_id": "CU521",
+        "conversion_type": "Buy",
+        "revenue_usd": 19.99
+      },
+      {
+        "customer_id": "CU523",
+        "conversion_type": "Buy",
+        "revenue_usd": 49.99
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+# Databricks notebook source
+from pyspark.sql.functions import *
+
+# COMMAND ----------
+
+df = (
+    spark.read.table('marketing_analytics_project.`01_bronze`.conversions')
+        .withColumn('date', to_date(col('date')))
+        .withColumn('conversion', from_json(
+            col('conversion'), "ARRAY<STRUCT<customer_id: STRING, conversion_type: STRING, revenue_usd: DOUBLE>>"
+        ))
+        .withColumn('conversion', explode(col('conversion')))
+        .withColumn("revenue_usd", col("conversion.revenue_usd"))
+        .withColumn("conversion_type", col("conversion.conversion_type"))
+        .withColumn("customer_id", col("conversion.customer_id"))
+        .drop('conversion')
+        .select(
+            "campaign_id", 
+            "customer_id", 
+            "date", 
+            "conversion_type", 
+            "revenue_usd"
+        )
+        .dropDuplicates(['campaign_id', 'customer_id', 'date', 'conversion_type'])
+)
+
+df_2 = (
+    df
+        .withColumn('add_to_cart', when(col('conversion_type') == 'Add to Cart', 1).otherwise(0))
+        .withColumn('wishlist', when(col('conversion_type') == 'Wishlist', 1).otherwise(0))
+        .withColumn('purchase', when(col('conversion_type') == 'Buy', 1).otherwise(0))
+        .groupBy(['campaign_id', 'date', "customer_id"])
+        .agg(
+            sum("revenue_usd").alias("revenue_usd"),
+            sum("add_to_cart").alias("add_to_cart"),
+            sum("wishlist").alias("wishlist"),
+            sum("purchase").alias("purchase")
+        )
+        .orderBy('date')
+)
+
+display(df_2)
+
+# COMMAND ----------
+
