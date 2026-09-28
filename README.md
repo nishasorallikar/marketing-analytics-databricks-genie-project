@@ -78,5 +78,3 @@ Natural language Q&A over the gold layer tables, enabling self-serve analytics.
 ## 🙋 About
 
 Built by **Nisha**
-
-![Thank You](images/thank-you.png)
